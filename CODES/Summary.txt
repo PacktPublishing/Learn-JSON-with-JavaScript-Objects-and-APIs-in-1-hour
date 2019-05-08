@@ -1,0 +1,26 @@
+Learn JSON with JavaScript Objects and APIs in 1 hour
+Guide to learning how to use JavaScript Objects and create and use JSON as a JavaScript Object
+
+JSON is the most popular format for data exchange between applications.  If you are interested in connected to a web API chances are its JSON formatted.  
+
+Explore how JSON works and how to access the data contained within the JSON output.  This course shows you how to work with JSON formatted data, output content, loop JSON data, Parse JSON and a whole lot more.
+
+JSON (JavaScript Object Notation) is a syntax for data.  JSON is easier to use than XML and human readable.   Most modern web APIs output data in JSON formats. 
+
+Within this course you will learn
+
+What JavaScript objects are and how to create them
+How JavaScript objects can use Arrays to hold multiple items
+How JavaScript arrays work and store data
+See how data can be extracted out
+Explore different methods of working with the JSON data stringify and parsing
+Store and retrieve JSON data from storage
+Use AJAX to retrieve external JSON data for use within JavaScript
+Connect to various web APIs and output the response data into your web pages
+All of the source code and resources are in included
+Get started with JSON quickly 
+Understanding the basics of JavaScript and how to create websites is a prerequisites to this course.  It covers working within JavaScript code to produce dynamic functionality.
+
+For an instructor with over 18 years of real world web development experience.  Learning how to work with JSON is a key skill within modern web development.   JSON and APIs are everywhere, once you start working with them you will be amazed at what can be done with a few lines of code.
+
+I'm here to help you learn about JSON and ready to answer any questions you may have.  Join now and bring some JSON data into you web applications today.
